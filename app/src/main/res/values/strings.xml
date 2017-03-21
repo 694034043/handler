@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandlerDemo</string>
+    <string name="MainActivity_btHandler">Handler</string>
+    <string name="MainActivity_btAsyncTask">AsyncTask</string>
+    <string name="Activity_btCopy">复制文件</string>
+    <string name="Activity_copyPercentage">%</string>
+</resources>
